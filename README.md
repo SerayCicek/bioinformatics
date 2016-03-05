@@ -1,6 +1,10 @@
 # bioinformatics
 Bioinformatics and Computational Biology Topics, DBs, Challenges, etc.
 
+## Links
+
+[Open Bioinformatics Foundation GSoC](http://obf.github.io/GSoC/ideas/)
+
 ## The Cycle
 
 1. data -> interpreation via "tool"

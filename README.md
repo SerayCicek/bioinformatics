@@ -3,7 +3,8 @@ Bioinformatics and Computational Biology Topics, DBs, Challenges, etc.
 
 ## Links
 
-[Open Bioinformatics Foundation GSoC](http://obf.github.io/GSoC/ideas/)
+- [Open Bioinformatics Foundation GSoC](http://obf.github.io/GSoC/ideas/)
+- Graph theory: [chemlambda](https://github.com/chorasimilarity/chemlambda-gui/blob/gh-pages/dynamic/README.md)
 
 ## The Cycle
 

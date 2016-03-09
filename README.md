@@ -25,7 +25,7 @@ Bioinformatics and Computational Biology Topics, DBs, Challenges, etc.
 
 - R (Bioconductor)
 - Python
-- bionode
+- bionode/R - [Tutorial](https://github.com/thejmazz/js-bioinformatics-exercise)
 
 ## Databases
 
